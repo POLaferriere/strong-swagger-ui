@@ -12,6 +12,5 @@ swagger-ui.sublime-workspace
 *.swp
 npm-debug.log
 node_modules/*
-dist/
 src/main/html/css/*
 !src/main/html/css/typography.css
